@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mznzYjEouIGCwou5Of+R5Tks7X+UnWfmhBd+SZStHBWG2ZHPeky1Jp4gEmsErGHJvBSkFwkaWcSsaBxKn6qXVg==",
+  "dgSpecHash": "Zbdkvt7tdcnonstjkgCjqOuxmhNuJKPSL6rD/+epVwcoAx0UyYdNuzIsYhX9gHtlHa2GldsXBH/1ZGl21CorwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sanan Shahmammadov\\Desktop\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+  "projectFilePath": "C:\\Users\\Sanan Shahmammadov\\Desktop\\FrontToBackTask\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sanan Shahmammadov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sanan Shahmammadov\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

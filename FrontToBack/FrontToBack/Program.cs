@@ -19,6 +19,9 @@ namespace FrontToBack
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
+                app.MapControllerRoute(
+                name: "areas",
+                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapDefaultControllerRoute();
             });
             
